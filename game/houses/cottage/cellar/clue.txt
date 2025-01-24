@@ -1,0 +1,5 @@
+Investigation Update:
+
+A staff member mentions checking the living room.
+
+Hint: To reach this location, you'll need to move back and down to the next location: 'cd "../living room"'
